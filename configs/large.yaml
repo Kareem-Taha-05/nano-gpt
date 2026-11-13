@@ -1,0 +1,8 @@
+# large: for a real gpu (kaggle / colab), a few million parameters
+n_embd: 256
+n_head: 8
+n_layer: 6
+chunk_size: 256
+batch_size: 64
+dropout: 0.2
+max_iters: 10000

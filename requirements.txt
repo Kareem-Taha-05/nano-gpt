@@ -1,0 +1,7 @@
+torch>=2.3
+numpy
+matplotlib
+pyyaml
+streamlit
+tokenizers  # optional, only for bpe_backend=hf
+wandb  # optional, only for use_wandb=True

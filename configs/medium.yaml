@@ -1,0 +1,8 @@
+# medium: the default, wants a gpu (colab t4 is fine)
+n_embd: 128
+n_head: 4
+n_layer: 4
+chunk_size: 128
+batch_size: 64
+dropout: 0.2
+max_iters: 5000

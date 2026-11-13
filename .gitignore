@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+wandb/
+data/*.txt
+experiments/results/
+# trained models: small final checkpoints can be committed on purpose with `git add -f`, the big resumable epoch checkpoints should not be
+checkpoints/*.pt

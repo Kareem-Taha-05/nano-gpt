@@ -1,0 +1,8 @@
+# small: trains in a few minutes on a cpu
+n_embd: 64
+n_head: 4
+n_layer: 2
+chunk_size: 64
+batch_size: 32
+dropout: 0.1
+max_iters: 3000
